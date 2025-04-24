@@ -1,0 +1,13 @@
+Jogo da Velha com GUI (Swing)
+Um Jogo da Velha simples feito em Java utilizando Swing para a interface gráfica. O tabuleiro é uma matriz 3x3 de botões que alterna entre os jogadores X e O. O jogo detecta vitória e empate e permite reiniciar.
+
+Funcionalidades:
+Interface gráfica com JFrame e JButton.
+
+Tabuleiro 3x3 usando um array 2D.
+
+Alternância de jogadores X e O.
+
+Detecção de vitória e empate.
+
+Reinício do jogo após vitória ou empate.
